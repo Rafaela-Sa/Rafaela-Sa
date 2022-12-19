@@ -22,3 +22,5 @@ Postarei aqui, com muito carinho durante esse período, o passo a passo da minha
 </br>
 
 ---
+
+![Snake animation](https://github.com/Rafaela-Sa/Rafaela-Sa/blob/output/github-contribution-grid-snake.svg)

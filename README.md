@@ -7,7 +7,6 @@ Para iniciar essa nova etapa estou em processo de treinamento no Bootcamp realiz
 Postarei aqui, com muito carinho durante esse período, o passo a passo da minha evolução 💛🚀
 
 - 📚 Lógica de Programação, Algorítimos, Java
-- ⚡ Adoro praticar Pilates
 
 
 <a target="_blank" href="https://www.linkedin.com/in/rafasoaresdesa/">
